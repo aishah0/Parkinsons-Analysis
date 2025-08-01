@@ -2,8 +2,8 @@
 
 This project explores clinical and lifestyle predictors of early-stage Parkinson’s Disease using machine learning and data visualization techniques. It is part of a project for STEM Fellowship's 2025 Inter-University Big Data Challenge.
 
-### Manuscript
-Olopade, A., et al. (2025). *Early Detection of Parkinson’s Disease Using Random Forest Models*. [Read the full paper](https://doi.org/10.48448/ypyz-7e34).
+### Publication
+Olopade, A., et al. (2025). *Early Detection of Parkinson’s Disease Using Random Forest Models*. [View the full manuscript here](https://doi.org/10.48448/ypyz-7e34).
 
 ### Objectives
 - Identify important early indicators of Parkinson’s Disease.
